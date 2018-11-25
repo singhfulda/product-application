@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "productApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "OTQzZmQxZjFjZTZlNmZiZTViM2MzMjMxNTA1MTgxMmUxYmMxYWY1MWRlNDMyNjc0YzFhOTE3NzNkNzE1YWMyMGQ3YWVhNjI5YTYxZmIzMDc3NmY4OTdmMTI2Y2FiMDMxNWY1MmY2ODI5ZTMwMTdmYjhhYmNhNDdlMGY5NGNhZDI=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "singhfulda",
+  "repository-name": "product-application"
+}
